@@ -7,6 +7,7 @@ author:     	"Lockiee"
 header-img: 	"http://oearks7ko.bkt.clouddn.com/blog/jpg/1490412498796.jpg"
 header-mask: 	0.3
 catalog:    	true
+hide:			1
 tags:
     - 日常
 ---
