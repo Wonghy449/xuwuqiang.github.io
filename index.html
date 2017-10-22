@@ -4,7 +4,7 @@ description: "世界这么大，还不去走走。"
 ---
 
 {% for post in paginator.posts %}
-{% if post.hide == 1 %}
+{% if post.hide != 1 %}
     <div class="post-preview">
         <a href="{{ post.url | prepend: site.baseurl }}">
             <h2 class="post-title">
