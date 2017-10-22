@@ -31,6 +31,9 @@ layout: default
     }
     {% endif %}
 </style>
+{% if page.hide == 1 %}
+
+{% else %}
 <header class="intro-header" >
     <div class="header-mask"></div>
     <div class="container">
@@ -213,7 +216,7 @@ layout: default
         </div>
     </div>
 </article>
-
+{% endif %}
 
 {% if site.duoshuo_username %}
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
