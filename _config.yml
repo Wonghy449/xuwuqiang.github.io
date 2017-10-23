@@ -56,7 +56,7 @@ kramdown:
 # duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
 # 网易云跟帖
-wangyiyun_productKey: "6d0b4f01b0a140ddac16fe356985c469"
+# wangyiyun_productKey: "6d0b4f01b0a140ddac16fe356985c469"
 
 
 # Analytics settings
@@ -64,14 +64,14 @@ wangyiyun_productKey: "6d0b4f01b0a140ddac16fe356985c469"
 # ba_track_id: [your track id]
 
 # Google Analytics
-#ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-#ga_domain: huangxuan.me
+ga_track_id: 'UA-108457157-1'            # Format: UA-xxxxxx-xx
+ga_domain: lockiee.com
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "一期一会。"
+sidebar-about-description: "word hard!!!"
 sidebar-avatar: /img/header-img.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
